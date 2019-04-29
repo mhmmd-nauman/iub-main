@@ -70,12 +70,17 @@ jQuery(window).on('load',  function() {
 <body>
     <div class=" container">
         <div class="row">
-            <div class=" col-md-8">
+            <div class=" col-md-8 col-xs-12">
                 <a href="http://iub.edu.pk/"><img src="/templates/iub/images/Name.png"></a>
             </div>
-            <div class=" col-md-4">
+            <div class=" col-md-1 col-xs-4">
                <a href="http://iub.edu.pk/"> <img src="/templates/iub/images/top-icon1.jpg"> </a>
-               
+            </div>
+            <div class=" col-md-1 col-xs-4">
+               <a href="http://iub.edu.pk/"> <img src="/templates/iub/images/top-icon1.jpg"> </a>
+            </div>
+            <div class=" col-md-1 col-xs-4">
+               <a href="http://iub.edu.pk/"> <img src="/templates/iub/images/top-icon1.jpg"> </a>
             </div>
         </div>
         <div id="header_container">
