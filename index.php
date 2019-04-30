@@ -241,13 +241,7 @@ jQuery(window).on('load',  function() {
                                  <ul class = "dropdown-menu">
                                     <li><a href = "#">Office of Research & Technology</a></li>
                                     <li class = "divider"></li>
-                                    <li><a href = "#">Research Institutes</a></li>
-                                    <li class = "divider"></li>
-                                    <li><a href = "#"></a></li> 
-                                    <li class = "divider"></li>
-                                    <li><a href = "#"></a></li> 
-                                    <li class = "divider"></li>
-                                    <li><a href = "#"></a></li> 
+                                    <li><a href = "#">Research Institutes</a></li> 
                                    
                                  </ul>
 
