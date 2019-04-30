@@ -178,20 +178,35 @@ jQuery(window).on('load',  function() {
 
                               <li class = "dropdown">
                                  <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">
-                                    Java 
+                                    Academics
                                     <b class = "caret"></b>
                                  </a>
 
                                  <ul class = "dropdown-menu">
-                                    <li><a href = "#">jmeter</a></li>
-                                    <li><a href = "#">EJB</a></li>
-                                    <li><a href = "#">Jasper Report</a></li>
-
+                                    <li><a href = "#">Campuses</a></li>
                                     <li class = "divider"></li>
-                                    <li><a href = "#">Separated link</a></li>
-
+                                    <li><a href = "#">Departments</a></li>
                                     <li class = "divider"></li>
-                                    <li><a href = "#">One more separated link</a></li>
+                                    <li><a href = "#">Programs</a></li>                             
+                                   
+                                 </ul>
+
+                              </li>
+                              <li class = "dropdown">
+                                 <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">
+                                    Faculties
+                                    <b class = "caret"></b>
+                                 </a>
+
+                                 <ul class = "dropdown-menu">
+                                    <li><a href = "#">Affiliated Institutes</a></li>
+                                    
+                                    <li><a href = "#">Divisions</a></li>
+                                    
+                                    <li><a href = "#">Faculties</a></li> 
+                                    
+                                    <li><a href = "#">Institutes</a></li> 
+                                   
                                  </ul>
 
                               </li>
