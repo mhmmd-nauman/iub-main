@@ -114,14 +114,67 @@ jQuery(window).on('load',  function() {
                     
                     <nav class = "navbar navbar-default" role = "navigation">
    
-                        <div class = "navbar-header">
-                           <a class = "navbar-brand" href = "#">TutorialsPoint</a>
-                        </div>
+                       <!-- <div class = "navbar-header">
+                           <a class = "navbar-brand" href = "#">About IUB</a>
+                        </div>-->
 
                         <div>
                            <ul class = "nav navbar-nav">
-                              <li class = "active"><a href = "#">iOS</a></li>
-                              <li><a href = "#">SVN</a></li>
+                              <li class = "dropdown">
+                                 <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">
+                                    Discover IUB 
+                                    <b class = "caret"></b>
+                                 </a>
+
+                                 <ul class = "dropdown-menu">
+                                    <li><a href = "#">About IUB</a></li>
+                                    <li class = "divider"></li>
+                                    <li><a href = "#">Bahawalpur the city</a></li>
+                                    <li class = "divider"></li>
+                                    <li><a href = "#">History</a></li>
+                                    <li class = "divider"></li>
+                                    <li><a href = "#">Vision Statement</a></li>
+                                    <li class = "divider"></li>
+                                    <li><a href = "#">Research Center</a></li>
+                                 </ul>
+
+                              </li>
+                              <li class = "dropdown">
+                                 <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">
+                                    Administration
+                                    <b class = "caret"></b>
+                                 </a>
+
+                                 <ul class = "dropdown-menu">
+                                    <li><a href = "#">University Administration</a></li>
+                                    <li class = "divider"></li>
+                                    <li><a href = "#">IUB Managment</a></li>
+                                    <li class = "divider"></li>
+                                    <li><a href = "#">Registrar</a></li>
+                                    <li class = "divider"></li>
+                                    <li><a href = "#">Tresurer</a></li>
+                                    <li class = "divider"></li>
+                                    <li><a href = "#">Controller Examination</a></li>
+                                    <li class = "divider"></li>
+                                    <li><a href = "#">Vice Chancellor Office</a></li>
+                                    <li class = "divider"></li>
+                                    <li><a href = "#">Planning & Development</a></li>
+                                    <li class = "divider"></li>
+                                    <li><a href = "#">DIRECTORATE of IT</a></li>
+                                    <li class = "divider"></li>
+                                    <li><a href = "#">Directorate of Sports</a></li>
+                                    <li class = "divider"></li>
+                                    <li><a href = "#">Directorate of Student Affairs</a></li>
+                                    <li class = "divider"></li>
+                                    <li><a href = "#">Directorate of Engineering</a></li>
+                                    <li class = "divider"></li>
+                                    <li><a href = "#">Directorate of QEC</a></li>
+                                    <li class = "divider"></li>
+                                    <li><a href = "#">ORIC</a></li>
+                                   
+                                 </ul>
+
+                              </li>
 
                               <li class = "dropdown">
                                  <a href = "#" class = "dropdown-toggle" data-toggle = "dropdown">
