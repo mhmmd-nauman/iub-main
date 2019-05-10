@@ -1,3 +1,11 @@
+<style type="text/css">
+    
+    .col-md-2 img {
+        height: 100%;
+        width: 100%;
+     }
+
+</style>
 <div class="row">
     <div class=" col-md-2 col-xs-12">
         <div><a href="/images/2019/march/press/Brosher-2019.pdf"><img class="img-responsive, thumbnail"  src="/images/2019/march/press/ISC.jpg" /></a></div>
