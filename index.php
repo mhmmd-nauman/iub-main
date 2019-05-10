@@ -68,7 +68,7 @@ jQuery(window).on('load',  function() {
 
 </head>
 <body>
-    <!-- for riaz -->
+    <!-- for nauman -->
     <div class=" container">
         <div class="row">
             <div class=" col-md-8 col-xs-12">
