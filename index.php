@@ -69,19 +69,20 @@ jQuery(window).on('load',  function() {
 </head>
 <body>
     <!-- for riaz -->
-    <div class="container-fluid">
+    <!--<div class="container-fluid">-->
+    <div class="container">
         <div class="row">
             <div class=" col-md-8 col-xs-12">
                 <a href="http://iub.edu.pk/"><img src="/templates/iub/images/Name.png"></a>
             </div>
-            <div class=" col-md-1 col-xs-4">
-               <a href="http://iub.edu.pk/"> <img src="/templates/iub/images/top-icon1.jpg"> </a>
+            <div class=" col-md-1 col-xs-4"><br>
+              <a href="http://iub.edu.pk/"> <i class="glyphicon glyphicon-home"></i> </a>
             </div>
-            <div class=" col-md-1 col-xs-4">
-               <a href="http://iub.edu.pk/"> <img src="/templates/iub/images/top-icon1.jpg"> </a>
+            <div class=" col-md-1 col-xs-4"><br>
+               <a href="http://iub.edu.pk/index.php/site"> <i class="glyphicon glyphicon-map-marker"></i> </a>
             </div>
-            <div class=" col-md-1 col-xs-4">
-               <a href="http://iub.edu.pk/"> <img src="/templates/iub/images/top-icon1.jpg"> </a>
+            <div class=" col-md-1 col-xs-4"><br>
+               <a href="http://iub.edu.pk/index.php/contact-us"> <i class="glyphicon glyphicon-envelope"></i> </a>
             </div>
         </div>
         
@@ -91,10 +92,364 @@ jQuery(window).on('load',  function() {
         <?php 
        include "slideshow.php";
        ?>
-     
+     <div class="row">
+            <div class=" col-md-2 col-xs-12 col-md-offset-1">
+                <a href="http://iub.edu.pk/index/about-iub/student-resource-center" class="btn btn-primary btn-block">Prospective Students</a>
+            </div>
+            <div class=" col-md-2 col-xs-12">
+              <a href="http://oadmissions.iub.edu.pk/" class="btn btn-primary btn-block">Admissions</a>
+            </div>
+            <div class=" col-md-2 col-xs-12">
+               <a href="http://iub.edu.pk/index.php/alumni" class="btn btn-primary btn-block">Alumni</a>
+            </div>
+            <div class=" col-md-2 col-xs-12">
+               <a href="http://iub.edu.pk/index.php/academics/departments" class="btn btn-primary btn-block">Staff</a>
+            </div>
+         <div class=" col-md-2 col-xs-12">
+               <a href="http://iub.edu.pk/index.php/campus-life/campus-life" class="btn btn-primary btn-block">Visitors</a>
+            </div>
+        </div>
+        <div class="row">
+            <br>
+        </div>
+        <div class="row">
+            <div class=" col-md-3 col-xs-12 " style="border:1px #08C dotted;">
+                <h4>Vice Chancellor Message</h4>
+                <p>
+                   The Islamia University of Bahawalpur was established in the year 1975 by upgrading historical institute of the Jamia Abbasia. In the past for over three decades, the University has played a major role in furthering the nation’s social, cultural, business and economic development by providing highly skilled manpower. 
+                </p>
+            </div>
+            <div class=" col-md-3 col-xs-12" style="border:1px #08C dotted;">
+                <h4>University</h4>
+                <p>
+                    <ul class="category-module">
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/admission-spring-2017">Admission Spring 2019</a>
+                        </li>
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/bahawalpur-the-city">Bahawalpur The City</a>
+                        </li>
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/download">Downloads</a>
 
-        
-  
+                        </li>
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/events">Events</a>
+
+                        </li>
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/about">History</a>
+
+                        </li>
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/homepage/iub-structure">Officers of University</a>
+                        </li>
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/vc-message">Vision Statement</a>
+
+                        </li>
+                    </ul>
+                </p>
+            </div>
+            <div class=" col-md-3 col-xs-12" style="border:1px #08C dotted;">
+                <h4>Faculty & Staff</h4>
+               <p>
+                    <ul class="category-module">
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/academics/campuses">Campuses</a>
+                        </li>
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/academics">Departments</a>
+                        </li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/academics/departments">Faculty and Staff</a>
+			</li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/fee-structure">Fee Structure</a>
+			</li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/admission-rules">Rules and Regulations</a>
+			</li>
+                    </ul>
+                </p>
+            </div>
+            <div class=" col-md-3 col-xs-12" style="border:1px #08C dotted;">
+                <h4>Campus Life</h4>
+               <p>
+                    <ul class="category-module">
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/campus-life/campus-accomodation">Accomodation</a>
+                        </li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/campus-life">Campus Life</a>
+				
+			</li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/campus-facilities">Facilities</a>
+				
+			</li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/campus-life/campus-resources/library">Library</a>
+				
+			</li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/campus-life/campus-resources">Resources</a>
+				
+			</li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/campus-life/student-activities">Student Activities</a>
+				
+			</li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/campus-life/transportation">Transportation</a>
+				
+			</li>
+			</ul>
+                </p>
+            </div>
+         
+        </div>
+        <div class="row">
+            <br>
+        </div>
+        <div class="row">
+            <div class=" col-md-3 col-xs-12 " style="border:1px #08C dotted;">
+                <h4>News & Events</h4>
+                <p>
+                   The Islamia University of Bahawalpur was established in the year 1975 by upgrading historical institute of the Jamia Abbasia. In the past for over three decades, the University has played a major role in furthering the nation’s social, cultural, business and economic development by providing highly skilled manpower. 
+                </p>
+            </div>
+            <div class=" col-md-3 col-xs-12" style="border:1px #08C dotted;">
+                <h4>University</h4>
+                <p>
+                    <ul class="category-module">
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/admission-spring-2017">Admission Spring 2019</a>
+                        </li>
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/bahawalpur-the-city">Bahawalpur The City</a>
+                        </li>
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/download">Downloads</a>
+
+                        </li>
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/events">Events</a>
+
+                        </li>
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/about">History</a>
+
+                        </li>
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/homepage/iub-structure">Officers of University</a>
+                        </li>
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/vc-message">Vision Statement</a>
+
+                        </li>
+                    </ul>
+                </p>
+            </div>
+            <div class=" col-md-3 col-xs-12" style="border:1px #08C dotted;">
+                <h4>Examination</h4>
+               <p>
+                    <ul class="category-module">
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/academics/campuses">Campuses</a>
+                        </li>
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/academics">Departments</a>
+                        </li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/academics/departments">Faculty and Staff</a>
+			</li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/fee-structure">Fee Structure</a>
+			</li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/admission-rules">Rules and Regulations</a>
+			</li>
+                    </ul>
+                </p>
+            </div>
+            <div class=" col-md-3 col-xs-12" style="border:1px #08C dotted;">
+                <h4>Campus Solution</h4>
+               <p>
+                    <ul class="category-module">
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/campus-life/campus-accomodation">Accomodation</a>
+                        </li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/campus-life">Campus Life</a>
+				
+			</li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/campus-facilities">Facilities</a>
+				
+			</li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/campus-life/campus-resources/library">Library</a>
+				
+			</li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/campus-life/campus-resources">Resources</a>
+				
+			</li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/campus-life/student-activities">Student Activities</a>
+				
+			</li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/campus-life/transportation">Transportation</a>
+				
+			</li>
+			</ul>
+                </p>
+            </div>
+         
+        </div>
+        <div class="row">
+            <br>
+        </div>
+        <div class="row">
+            <div class=" col-md-3 col-xs-12 " style="border:1px #08C dotted;">
+                <h4>News & Events</h4>
+                <p>
+                   The Islamia University of Bahawalpur was established in the year 1975 by upgrading historical institute of the Jamia Abbasia. In the past for over three decades, the University has played a major role in furthering the nation’s social, cultural, business and economic development by providing highly skilled manpower. 
+                </p>
+            </div>
+            <div class=" col-md-3 col-xs-12" style="border:1px #08C dotted;">
+                <h4>University</h4>
+                <p>
+                    <ul class="category-module">
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/admission-spring-2017">Admission Spring 2019</a>
+                        </li>
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/bahawalpur-the-city">Bahawalpur The City</a>
+                        </li>
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/download">Downloads</a>
+
+                        </li>
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/events">Events</a>
+
+                        </li>
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/about">History</a>
+
+                        </li>
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/homepage/iub-structure">Officers of University</a>
+                        </li>
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/vc-message">Vision Statement</a>
+
+                        </li>
+                    </ul>
+                </p>
+            </div>
+            <div class=" col-md-3 col-xs-12" style="border:1px #08C dotted;">
+                <h4>Examination</h4>
+               <p>
+                    <ul class="category-module">
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/academics/campuses">Campuses</a>
+                        </li>
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/academics">Departments</a>
+                        </li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/academics/departments">Faculty and Staff</a>
+			</li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/fee-structure">Fee Structure</a>
+			</li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/admission-rules">Rules and Regulations</a>
+			</li>
+                    </ul>
+                </p>
+            </div>
+            <div class=" col-md-3 col-xs-12" style="border:1px #08C dotted;">
+                <h4>Campus Solution</h4>
+               <p>
+                    <ul class="category-module">
+                        <li>
+                            <a class="mod-articles-category-title " href="/index.php/campus-life/campus-accomodation">Accomodation</a>
+                        </li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/campus-life">Campus Life</a>
+				
+			</li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/campus-facilities">Facilities</a>
+				
+			</li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/campus-life/campus-resources/library">Library</a>
+				
+			</li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/campus-life/campus-resources">Resources</a>
+				
+			</li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/campus-life/student-activities">Student Activities</a>
+				
+			</li>
+			<li>
+                            <a class="mod-articles-category-title " href="/index.php/campus-life/transportation">Transportation</a>
+				
+			</li>
+			</ul>
+                </p>
+            </div>
+         
+        </div>
+      <div class="row">
+            <br>
+        </div>
+        <div class="row">
+            <br>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                <p><a href="http://mcl.iub.edu.pk/"><img id="image_footer" src="/templates/iub/images/mcl.png" height="100" width="200"></a></p>
+            </div>
+			
+	
+            <div class="col-md-2">
+                    <p><a href="/network/index.php"><img id="image_footer" src="/templates/iub/images/iub_wifi.jpg"></a></p>
+            </div>
+			
+	
+            <div class="col-md-2">
+                <p><a href="http://punjabhec.gov.pk/complaint-cell-minister-for-higher-education/"><img id="image_footer" src="/templates/iub/images/complaint_cell_PHEC.png"></a></p>
+            </div>
+            
+            <div class="col-md-2">
+                
+                <p><a href="http://punjabhec.gov.pk/complaint-cell-minister-for-higher-education/"><img id="image_footer" src="/templates/iub/images/complaint_cell_PHEC.png"></a></p>
+            </div>
+            
+            <div class="col-md-2">
+                <p><a href="http://punjabhec.gov.pk/complaint-cell-minister-for-higher-education/"><img id="image_footer" src="/templates/iub/images/complaint_cell_PHEC.png"></a></p>
+            </div>
+            
+            <div class="col-md-2">
+                <p><a href="http://punjabhec.gov.pk/complaint-cell-minister-for-higher-education/"><img id="image_footer" src="/templates/iub/images/complaint_cell_PHEC.png"></a></p>
+            </div>
+            
+	
+        </div>
+        <div class="row">
+            <div class="col-md-12" style="background-color: black;color: white;">
+            <p>© Copyright The Islamia University of Bahawalpur Pakistan. All Rights Reserved.<br> <a href="/index.php/terms-of-use">Terms of Use</a> | <a href="/index.php/privacy" target="_blank" rel="alternate noopener noreferrer">Privacy</a></p>
+            </div>
+        </div>
     </div>
 
 
