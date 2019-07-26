@@ -11,7 +11,7 @@
                                     <span class="section-span"></span>
                                     <div class="section-top-heading">Vice Chancellor Message</div>
                             </div>
-                        </div>bvbjvjvjhfsdfsdf
+                        </div><!-- Test -->
                     </div>
                 </div>
                 <div class="row">
