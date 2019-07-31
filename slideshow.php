@@ -20,17 +20,16 @@
 </style>
 <div class="row">
     <div class=" col-md-2 col-xs-12">
-        <div class="col-xs-4 col-sm-4 col-md-12"><a href="/images/2019/march/press/Brosher-2019.pdf"><img class="img-responsive, thumbnail"  src="/images/2019/march/press/ISC.jpg" /></a></div>
-        <div class="col-xs-4 col-sm-4 col-md-12"><a href="http://iub.edu.pk/images/2019/april/press/IPB-291.pdf"><img class="img-responsive, thumbnail"  src="/images/2019/april/press/convo-2019.jpg" /></a></div>
-        <div class="col-xs-4 col-sm-4 col-md-12"><a href="http://directorate-of-it.iub.edu.pk/index.php/practices/website-updates" target="_blank" rel="alternate noopener noreferrer"><img class="img-responsive, thumbnail"  src="/images/2018/june/press/Buffer.jpg" /></a></div>
+        <div class="col-xs-4 col-sm-4 col-md-12"><a href="/images/2019/march/press/Brosher-2019.pdf"><img class="img-responsive, thumbnail"  src="http://localhost/iub_updates/images/fall_19.jpg" /></a></div>
+        <div class="col-xs-4 col-sm-4 col-md-12"><a href="http://iub.edu.pk/images/2019/april/press/IPB-291.pdf"><img class="img-responsive, thumbnail"  src="http://localhost/iub_updates/images/ac2018.jpg" /></a></div>
+        <div class="col-xs-4 col-sm-4 col-md-12"><a href="http://directorate-of-it.iub.edu.pk/index.php/practices/website-updates" target="_blank" rel="alternate noopener noreferrer"><img class="img-responsive, thumbnail"  src="http://localhost/iub_updates/images/Buffer.jpg" /></a></div>
     </div>
     <div class="col-md-8 col-xs-12">
         <div class="col-xs-12 col-sm-12 col-md-12"><img class="img-responsive" src="images/slideshow/National-Conference-on-Hoemopathy.JPG" /></div>
     </div>
     <div class=" col-md-2 col-xs-12">
-        <div class="col-xs-4 col-sm-4 col-md-12"><a href="/images/2019/march/press/Brosher-2019.pdf"><img class="img-responsive, thumbnail"  src="/images/2019/march/press/ISC.jpg" /></a></div>
-        <div class="col-xs-4 col-sm-4 col-md-12"><a href="http://iub.edu.pk/images/2019/april/press/IPB-291.pdf"><img class="img-responsive, thumbnail"  src="/images/2019/april/press/convo-2019.jpg" /></a></div>
-        <div class="col-xs-4 col-sm-4 col-md-12"><a href="http://directorate-of-it.iub.edu.pk/index.php/practices/website-updates" target="_blank" rel="alternate noopener noreferrer"><img class="img-responsive, thumbnail"  src="/images/2018/june/press/Buffer.jpg" /></a></div>
+        <div class="col-xs-4 col-sm-4 col-md-12"><a href="images/IUB1.png"><img class="img-responsive, thumbnail"  src="http://localhost/iub_updates/images/IUB1.png" /></a></div>
+        <div class="col-xs-4 col-sm-4 col-md-12"><a href="http://iub.edu.pk/images/2019/april/press/IPB-291.pdf"><img class="img-responsive, thumbnail"  src="http://localhost/iub_updates/images/bjc_gatenight.jpg" /></a></div>
+        <div class="col-xs-4 col-sm-4 col-md-12"><a href="http://directorate-of-it.iub.edu.pk/index.php/practices/website-updates" target="_blank" rel="alternate noopener noreferrer"><img class="img-responsive, thumbnail"  src="http://localhost/iub_updates/images/IUB3.png" /></a></div>
     </div>
 </div>
-<!--- hello-->

@@ -1,5 +1,11 @@
+<style>
+    .dropdown-menu .divider {
+    margin: 3px 0;
+}
+    
+</style>
 <div class="row">
-                        
+    <div class="col-md-12">                   
                     
                     <nav class = "navbar navbar-default" role = "navigation">
    
@@ -51,7 +57,7 @@
                                     <li class = "divider"></li>
                                     <li><a href = "#">Planning & Development</a></li>
                                     <li class = "divider"></li>
-                                    <li><a href = "#">DIRECTORATE of IT</a></li>
+                                    <li><a href = "#">Directorate of IT</a></li>
                                     <li class = "divider"></li>
                                     <li><a href = "#">Directorate of Sports</a></li>
                                     <li class = "divider"></li>
@@ -180,4 +186,5 @@
                         </div>
 
                      </nav>
+    </div>
         </div> 

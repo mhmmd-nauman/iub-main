@@ -1,0 +1,23 @@
+
+.footer-top{
+	background-color: #012851;
+	border: 1px solid #012851;
+	color: #fff;
+	font-family: arial;
+}
+.footer-top hr{
+	border-color: #fff;
+}
+.footer-top a{
+	color: #fff;
+	font-size: 15px;
+}
+.footer-top a:hover{
+	text-decoration: none;
+}
+.footer-bottom{
+	background-color: #337ab7;
+	font-family: 'calibri light';
+	color: #fff;
+}
+

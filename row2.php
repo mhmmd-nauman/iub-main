@@ -1,9 +1,9 @@
+
+
 <div class="row">
     <div class="col-xs-12 col-md-6" >
         <div class="  col-xs-12 col-md-6" >
-            <div class="  col-xs-1 col-md-1">
-            </div>
-            <div class="  col-xs-10 col-md-10" style="text-align: justify">
+            <div class="  col-xs-10 col-md-12" style="text-align: justify">
                 <div class="row">
                     <div class="col-xs-12 col-md-12">
                         <div id="list1" class="drop-shadow">
@@ -21,16 +21,10 @@
                         </p>
                     </div>
                 </div>
-                    
-                    
-            </div>
-            <div class="  col-xs-1 col-md-1">
             </div>
         </div>
         <div class="  col-xs-12 col-md-6" >
-            <div class="  col-xs-1 col-md-1">
-            </div>
-            <div class="  col-xs-10 col-md-10" style="text-align: justify">
+            <div class="  col-xs-10 col-md-12" style="text-align: justify">
                 <div class="row">
                     <div class="col-xs-12 col-md-12">
                         <div id="list2" class="drop-shadow">
@@ -50,16 +44,13 @@
                 </div>
                     
                     
-            </div>
-            <div class="  col-xs-1 col-md-1">
             </div>
         </div>
     </div>
     <div class="col-xs-12 col-md-6" >
         <div class="  col-xs-12 col-md-6" >
-            <div class="  col-xs-1 col-md-1">
-            </div>
-            <div class="  col-xs-10 col-md-10" style="text-align: justify">
+            
+            <div class="  col-xs-10 col-md-12" style="text-align: justify">
                 <div class="row">
                     <div class="col-xs-12 col-md-12">
                         <div id="list1" class="drop-shadow">
@@ -80,13 +71,9 @@
                     
                     
             </div>
-            <div class="  col-xs-1 col-md-1">
-            </div>
         </div>
         <div class="  col-xs-12 col-md-6" >
-            <div class="  col-xs-1 col-md-1">
-            </div>
-            <div class="  col-xs-10 col-md-10" style="text-align: justify">
+            <div class="  col-xs-10 col-md-12" style="text-align: justify">
                 <div class="row">
                     <div class="col-xs-12 col-md-12">
                         <div id="list2" class="drop-shadow">
@@ -106,8 +93,6 @@
                 </div>
                     
                     
-            </div>
-            <div class="  col-xs-1 col-md-1">
             </div>
         </div>
     </div>

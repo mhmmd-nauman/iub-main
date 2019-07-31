@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<!--<link rel="stylesheet" href="/templates/iub/css/default_iub.css" type="text/css" />-->
   	<link rel="stylesheet" href="/templates/iub/css/top_menu.css" type="text/css" />
-        <link rel="stylesheet" href="http://localhost/iub_updates/css/custom_style.css" type="text/css" />
+        <link rel="stylesheet" href="http://localhost/iub_updates/css/ccustom_style.css" type="text/css" />
   	<link rel="stylesheet" href="/templates/iub/css/buttons.css" type="text/css" />
   	<!--<link rel="stylesheet" href="/templates/iub/css/slideshow_sides.css" type="text/css" />-->
   	<!---<link rel="stylesheet" href="/templates/iub/css/box_iub.css" type="text/css" />
@@ -51,7 +51,6 @@
 	.btn-primary {
 		background: #08C;
 	}
-       
 	</style>
 	<script src="/media/jui/js/jquery.min.js?3aafd3d246eebd7039a48226df550ea7"></script>
 	<script src="/media/jui/js/jquery-noconflict.js?3aafd3d246eebd7039a48226df550ea7"></script>
@@ -124,11 +123,6 @@ section.white {
     background-color: #f5f5f5;
     padding-bottom: 30px;
 }
-section.blue {
-    background-color: #012851;
-    color: white;
-    padding-bottom: 30px;
-}
 </style>
 <body>
     <section class="grey">
@@ -160,12 +154,18 @@ section.blue {
             ?>
         </div>
     </section>
-    
+    <section class="white">
+        <div class="container">
             <?php
             include 'footer.php';
             ?>
+        </div>
+    </section>
     
-       
+        
+        
+        
+    </div>
 
 
 </body>
